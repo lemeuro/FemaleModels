@@ -1,0 +1,362 @@
+[
+	{
+		"id": "de",
+        "name": "Germany",
+        "status": "Legal and professional",
+		"models": [
+            {
+                "name": "cora",
+                "role": "Pro Model"
+            },
+            {
+                "name": "magma",
+                "role": "Pro Model"
+            },
+            {
+                "name": "banks",
+                "role": "Pro Model"
+            }
+		],
+        "legalizationDate": "2002-01-01",
+		"modelDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "place": {
+            "name": "Pascha (brothel)",
+            "imageName": "pascha",
+            "coordinates": {
+                "latitude": 50.9533,
+                "longitude": 6.9375
+            }
+        },
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	},
+	{
+		"id": "gb",
+        "name": "United Kingdom",
+        "status": "Legal",
+		"models": [
+            {
+                "name": "bentley",
+                "role": "Pro Model"
+            },
+            {
+                "name": "kova",
+                "role": "Fashion Model"
+            },
+            {
+                "name": "tate",
+                "role": "Pro Model"
+            }
+		],
+        "legalizationDate": "2010-04-01",
+		"modelDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	},
+	{
+		"id": "fr",
+        "name": "France",
+        "status": "Legal",
+		"models": [
+            {
+                "name": "tran",
+                "role": "Pro model"
+            },
+            {
+                "name": "polina",
+                "role": "Pro Model"
+            },
+            {
+                "name": "morgane",
+                "role": "Pro Model"
+            }
+		],
+        "legalizationDate": "2010-10-11",
+		"modelDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "place": {
+            "name": "Moulin Rouge cabaret",
+            "imageName": "moulinrouge",
+            "coordinates": {
+                "latitude": 48.884129,
+                "longitude": 2.332400
+            }
+        },
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	},
+	{
+		"id": "it",
+        "name": "Italy",
+        "status": "Legal",
+		"models": [
+            {
+                "name": "henger",
+                "role": "Pro Model"
+            },
+            {
+                "name": "nappi",
+                "role": "Pro Model"
+            },
+            {
+                "name": "tommasi",
+                "role": "Pro Model"
+            }
+		],
+        "legalizationDate": "2011-03-30",
+		"modelDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	},
+	{
+		"id": "es",
+        "name": "Spain",
+        "status": "Legal",
+		"models": [
+            {
+                "name": "norai",
+                "role": "Pro Model"
+            },
+            {
+                "name": "miller",
+                "role": "Pro Model"
+            },
+            {
+                "name": "linares",
+                "role": "Pro Model"
+            }
+		],
+        "legalizationDate": "1991-01-25",
+		"modelDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	},
+	{
+		"id": "nl",
+        "name": "Netherlands",
+        "status": "Legal and professional",
+		"models": [
+            {
+                "name": "eden",
+                "role": "Pro Model"
+            },
+            {
+                "name": "leur",
+                "role": "Pro Model"
+            },
+            {
+                "name": "whites",
+                "role": "Pro Model"
+            }
+		],
+        "legalizationDate": "1948-06-15",
+		"modelDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "place": {
+            "name": "De Wallen",
+            "imageName": "dewallen",
+            "coordinates": {
+                "longitude": 4.892163098,
+                "latitude": 52.3707151838
+            }
+        },
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	},
+	{
+		"id": "pl",
+        "name": "Poland",
+        "status": "Legal",
+		"models": [
+            {
+                "name": "wild",
+                "role": "Pro Model"
+            },
+            {
+                "name": "starr",
+                "role": "Pro Model"
+            },
+            {
+                "name": "pink",
+                "role": "Pro Model"
+            }
+		],
+		"modelDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	},
+	{
+		"id": "se",
+        "name": "Sweden",
+        "status": "Legal",
+		"models": [
+            {
+                "name": "swede",
+                "role": "Pro Model"
+            },
+            {
+                "name": "thoren",
+                "role": "Pro Model"
+            }
+		],
+		"modelDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	},
+	{
+		"id": "be",
+        "name": "Belgium",
+        "status": "Legal",
+		"models": [
+            {
+                "name": "marijke",
+                "role": "Pro Model"
+            }
+		],
+        "legalizationDate": "2020-05-15",
+		"modelDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	},
+	{
+		"id": "ie",
+        "name": "Ireland",
+        "status": "Legal",
+		"models": [
+            {
+                "name": "mcreese",
+                "role": "Pro Model"
+            },
+            {
+                "name": "otoole",
+                "role": "Pro Model"
+            },
+            {
+                "name": "ireland",
+                "role": "Pro Model"
+            }
+		],
+        "legalizationDate": "1996-03-25",
+		"modelDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "units": [
+            {
+                "name": "Distance",
+                "unit": "Kilometers"
+            },
+            {
+                "name": "Mass",
+                "unit": "Kilograms"
+            },
+            {
+                "name": "Temperature",
+                "unit": "Celsius"
+            }
+        ]
+	}
+]
